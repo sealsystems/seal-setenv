@@ -1,5 +1,5 @@
 {
-  "name": "seal-setenv",
+  "name": "@sealsystems/setenv",
   "version": "0.0.1",
   "description": "Easily setting environment variables without the need to acces process.env",
   "author": {
@@ -29,6 +29,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sealsystems/seal-setenv.git"
+    "url": "https://github.com/sealsystems/node-setenv.git"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

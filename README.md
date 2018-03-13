@@ -1,19 +1,19 @@
-# seal-setenv
+# @sealsystems/setenv
 
 Easily setting environment variables without the need to acces process.env
 
 ## Installation
 
 ```bash
-$ npm install seal-setenv
+$ npm install @sealsystems/setenv
 ```
 
 ## Quick start
 
-First you need to add a reference to seal-setenv within your application.
+First you need to add a reference to @sealsystems/setenv within your application.
 
 ```javascript
-const setenv = require('seal-setenv');
+const setenv = require('@sealsystems/setenv');
 ```
 
 ### Setting a variables
