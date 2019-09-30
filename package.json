@@ -24,7 +24,7 @@
     "nyc": "14.1.1",
     "roboter": "0.16.0",
     "roboter-server": "0.16.0",
-    "uuid": "3.2.1"
+    "uuid": "3.3.3"
   },
   "repository": {
     "type": "git",
