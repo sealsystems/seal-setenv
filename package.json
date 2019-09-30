@@ -18,7 +18,7 @@
   "main": "lib/setenv.js",
   "dependencies": {},
   "devDependencies": {
-    "assertthat": "1.0.0",
+    "assertthat": "4.0.2",
     "eslint-config-seal": "0.0.9",
     "getenv": "0.7.0",
     "nyc": "14.1.1",
