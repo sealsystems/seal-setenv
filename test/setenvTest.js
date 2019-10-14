@@ -13,20 +13,25 @@ suite('setenv', () => {
   });
 
   test('throws an error if key is missing', (done) => {
-    assert.that(() => {
-      setenv();
-    }).is.throwing('Key is missing.');
+    assert
+      .that(() => {
+        setenv();
+      })
+      .is.throwing('Key is missing.');
     done();
   });
 
   test('throws an error if value is missing', (done) => {
-    assert.that(() => {
-      setenv('key');
-    }).is.throwing('Value is missing');
+    assert
+      .that(() => {
+        setenv('key');
+      })
+      .is.throwing('Value is missing');
     done();
   });
 
   test('returns false if called with an invalid type', (done) => {
+    // eslint-disable-next-line no-empty-function
     const result = setenv('a', () => {});
 
     assert.that(result).is.false();
