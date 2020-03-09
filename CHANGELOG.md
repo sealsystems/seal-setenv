@@ -1,3 +1,14 @@
+## 0.2.1 (2020-03-09)
+
+### Chores
+
+
+#### YOED :tada: ([16d500c](https://github.com/sealsystems/node-setenv/commit/16d500c))
+
+
+
+---
+
 ## 0.2.0 (2019-10-14)
 
 ### Features
