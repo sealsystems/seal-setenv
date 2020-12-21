@@ -1,3 +1,10 @@
+## 0.2.2 (2020-12-21)
+
+### Chores
+
+
+Trigger release ([dd32aeb](https://github.com/sealsystems/node-setenv/commit/dd32aeb))
+
 ## 0.2.1 (2020-03-09)
 
 ### Chores
