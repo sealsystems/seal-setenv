@@ -1,3 +1,12 @@
+## 0.2.3 (2020-12-26)
+
+### Chores
+
+
+Update build configuration ([ddc1ccb](https://github.com/sealsystems/node-setenv/commit/ddc1ccb))
+
+Update build configuration ([c280c06](https://github.com/sealsystems/node-setenv/commit/c280c06))
+
 ## 0.2.2 (2020-12-21)
 
 ### Chores

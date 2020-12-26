@@ -1,6 +1,6 @@
 {
   "name": "@sealsystems/setenv",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Easily setting environment variables without the need to acces process.env",
   "author": {
     "name": "SEAL Systems AG",
