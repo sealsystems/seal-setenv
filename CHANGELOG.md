@@ -1,3 +1,10 @@
+## 0.2.4 (2021-01-16)
+
+### Chores
+
+
+Update build config ([3c442e4](https://github.com/sealsystems/node-setenv/commit/3c442e4))
+
 ## 0.2.3 (2020-12-26)
 
 ### Chores
